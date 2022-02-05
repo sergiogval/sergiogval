@@ -7,8 +7,8 @@ I'm a person who was born in the late '80s of the last century. I do economics a
 ### My goal: `Find a remote job in the tech industry, and discover new cultures around the globe.`
 ## Fun facts about me:
 
-##### My first PC: `IBM PS/2 running windows 3.1`
-##### My first programming code `Visual Basic`
+- *My first PC:* `IBM PS/2 running windows 3.1`
+- *My first programming code:* `Visual Basic`
 
 
 **I've have worked in different degrees of expertice with the folloing technologies:**
@@ -43,8 +43,5 @@ I'm a person who was born in the late '80s of the last century. I do economics a
 ![](https://api.iconify.design/logos/salesforce.svg?color=black&width=50)
 
 
-##### My first PC: `IBM PS/2 running windows 3.1`
-##### My first programming code `Visual Basic`
-##### My goals: `Find a remote job in the tech industry, and discover new cultures around the globe.`
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiogval)](https://github.com/anuraghazra/github-readme-stats)
-[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiogval)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiogval)](https://github.com/anuraghazra/github-readme-stats)[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiogval)](https://github.com/anuraghazra/github-readme-stats)
