@@ -28,6 +28,7 @@ I'm a person who was born in the late '80s of the last century. I do economics a
 ![](https://api.iconify.design/logos/postgresql.svg?color=blue&width=50) 
 ![](https://api.iconify.design/bi/git.svg?color=red&width=50) 
 ![](https://api.iconify.design/file-icons/nmap.svg?color=lightblue&width=50) 
+![](https://api.iconify.design/vscode-icons/file-type-reactts.svg?width=50)
 ![](https://api.iconify.design/logos/webpack.svg?width=50) 
 ![](https://api.iconify.design/logos/typescript-icon.svg?width=50)
 ![](https://api.iconify.design/logos/blender.svg?width=50)
@@ -41,6 +42,7 @@ I'm a person who was born in the late '80s of the last century. I do economics a
 ![](https://api.iconify.design/logos/mdn.svg?color=%2300a0f0&width=50)
 ![](https://api.iconify.design/la/markdown.svg?color=black&width=50)
 ![](https://api.iconify.design/logos/salesforce.svg?color=black&width=50)
+![](https://api.iconify.design/logos/java.svg?width=50)
 
 
 
