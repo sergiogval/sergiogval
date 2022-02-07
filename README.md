@@ -44,6 +44,7 @@ I'm a person who was born in the late '80s of the last century. I do economics a
 ![](https://api.iconify.design/logos/salesforce.svg?color=black&width=50)
 ![](https://api.iconify.design/logos/java.svg?width=50)
 ![](https://api.iconify.design/logos/codepen-icon.svg?width=50)
+![](https://api.iconify.design/logos/raspberry-pi.svg?width=50)
 
 
 
