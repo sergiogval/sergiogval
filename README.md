@@ -11,7 +11,7 @@ I'm a person who was born in the late '80s of the last century. I do economics a
 - *My first programming code:* `Visual Basic`
 
 
-**I've have worked in different degrees of expertice with the folloing technologies:**
+**I've worked in different degrees of expertice with the folloing technologies:**
 
 
 ![](https://api.iconify.design/teenyicons/html5-solid.svg?color=red&width=50) 
@@ -46,4 +46,4 @@ I'm a person who was born in the late '80s of the last century. I do economics a
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiogval)](https://github.com/anuraghazra/github-readme-stats)[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiogval)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiogval)](https://github.com/anuraghazra/github-readme-stats)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiogval)](https://github.com/anuraghazra/github-readme-stats)
