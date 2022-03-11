@@ -2,14 +2,14 @@
 
 ### Hi there 👋 welcome to my profile.
 
-I'm a person who was born in the late '80s of the last century. I do economics and geopolitical analysis with my mom all the time. Also, I spend my free time in my organic garden. I love to read about history, human behavior, physics, biology, and other topics. My favorite art is cinema. I've seen how social dynamics have changed by new technologies. A former senior staff in an E-Banking business, now learning how to code web apps.
+I'm a person who was born in the late '80s of the last century. I do economical and geopolitical analisys all the time, I will share it if you ask for.  Also, I spend my free time in my organic garden. I love to read about history, human behavior, physics, biology. I see myself as a content creator, not a consumer. My favorite art is cinema. I've seen how social dynamics have changed by new technologies. Deepfaker? I don't know. A former senior staff in an E-Banking business, now learning how to code web apps.
 
-### My goal: ` Be more collective less individual, and find a job`
+### My goal: `Enlight the shadows`
 ## Fun facts about me:
 
 - *My first PC:* `IBM PS/2 running windows 3.1`
 - *My first programming code:* `Visual Basic`
-- *I never give up
+- *I never give up*
 
 
 
