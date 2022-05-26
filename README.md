@@ -2,9 +2,9 @@
 
 ### Hi there 👋 welcome to my profile.
 
-I'm a person who was born in the late '80s of the last century. I do economical and geopolitical analisys all the time, I will share it if you ask for.  Also, I spend my free time in my organic garden. I love to read about history, human behavior, physics, biology. I see myself as a content creator, not a consumer. My favorite art is cinema. I've seen how social dynamics have changed by new technologies. Deepfaker? I don't know. A former senior staff in an E-Banking business, now learning how to code web apps.
+I'm a person who was born in the late '80s of the last century. I do economical and geopolitical analisys all the time, I will share it if you ask for.  Also, I spend my free time in my organic garden. I love to read about history, human behavior, physics, biology. I see myself as a content creator, not a consumer. My favorite art is cinema. I've seen how social dynamics have changed by new technologies. Deepfaker? I don't know. A former senior staff in an E-Banking business, now learning how to code webapps and deploy them.
 
-### My goal: `Enlight the shadows`
+### My goal: `Get a job in tech indistry`
 ## Fun facts about me:
 
 - *My first PC:* `IBM PS/2 running windows 3.1`
@@ -13,7 +13,7 @@ I'm a person who was born in the late '80s of the last century. I do economical 
 
 
 
-**Believe it or not, I've worked in different degrees of expertice with the folloing technologies:**
+**I've worked in different degrees of expertice with the folloing technologies:**
 
 
 ![](https://api.iconify.design/teenyicons/html5-solid.svg?color=red&width=50) 
