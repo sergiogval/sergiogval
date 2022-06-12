@@ -2,7 +2,7 @@
 
 ### Hi there 👋 welcome to my profile.
 
-I'm a person who was born in the late '80s of the last century. I do economical and geopolitical analisys all the time, I will share it if you ask for.  Also, I spend my free time in my organic garden. I love to read about history, human behavior, physics, biology. I see myself as a content creator, not a consumer. My favorite art is cinema. I've seen how social dynamics have changed by new technologies. Deepfaker? I don't know. A former senior staff in an E-Banking business, now learning how to code webapps and deploy them.
+I'm a person who was born in the late '80s of the last century. I do economical and geopolitical analisys all the time, I will share it if you ask for.  Also, I spend my free time in my organic garden. I love to read about history, human behavior, physics, biology. I see myself as a content creator, not a consumer. My favorite art is cinema. I've seen how social dynamics have changed by new technologies. A former senior staff in an E-Banking business, now learning how to code webapps and deploy them.
 
 ### My goal: `Get a job in tech industry`
 ## Fun facts about me:
