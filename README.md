@@ -49,4 +49,5 @@ I'm a person who was born in the late '80s of the last century. I do economical 
 ![](https://api.iconify.design/logos/raspberry-pi.svg?width=50)
 
 
-
+:fire: my stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiogval)](https://github.com/anuraghazra/github-readme-stats)
